@@ -6,8 +6,8 @@
  * This program implements the Green Mart platform, which allows buyers and sellers to interact and trade agricultural and eco-friendly products.
  * It provides features such as product listing, searching, buying, and selling.
  *
- * @version 1.0
- * @date 2022-01-01
+ * @version 2.0
+ * @date 2023-11-23
  */
 
 /**
